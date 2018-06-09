@@ -1,4 +1,5 @@
 ## Project Structure
+```
 Docker Compose
     Retroboard Web App
         Frontend: Angular
@@ -11,3 +12,4 @@ Docker Compose
 
 Slack App - Frontend
     Slack Configuration Settings
+```
